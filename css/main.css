@@ -720,6 +720,14 @@ video {
   color: rgba(17, 24, 39, var(--tw-text-opacity));
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
+.tracking-wider {
+  letter-spacing: 0.05em;
+}
+
 .w-full {
   width: 100%;
 }
